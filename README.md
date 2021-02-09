@@ -1,4 +1,4 @@
-I use GitHub mostly to give stars to interesting projets.
+Appart from work, I mostly use GitHub to give stars to interesting projects.
 
 <!--
 **austil/austil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
